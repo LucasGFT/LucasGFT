@@ -1,19 +1,12 @@
+<h1 align="center">Ola, Me chamo Lucas Gomes</h1>
+<h3 align="center">Desenvolvedor Web Full-Stack</h3>
+
+Sou um Desenvolvedor Web Full-Stack apaixonado por tecnologia e inovação. Atualmente, estou me aprimorando na área através do curso de Desenvolvedor Web Full-Stack na Trybe, e estou ansioso para colaborar em projetos empolgantes que possam me desafiar ainda mais.
+
+<h3 align="left">Me encontre em:</h3>
 <a href="https://www.linkedin.com/in/lucas-gomes-filgueiras/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:lucasgft200303@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/LucasGFT"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-
-Olá, me chamo Lucas Gomes.
----
-
-
-Sou de Divinópolis/MG, atualmente estou estudando Desenvolvimento Web Full Stack na @betrybe. Tenho como objetivo ser uma pessoa Desenvolvedora Web Full Stack e trabalhar na área.
-
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGFT&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGFT&layout=compact&theme=dark)
-
-
 <h3>Linguagens, frameworks, databases e ferramentas:</h3>
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -34,6 +27,11 @@ Sou de Divinópolis/MG, atualmente estou estudando Desenvolvimento Web Full Stac
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGFT&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGFT&layout=compact&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucasgft&layout=compact&theme=dark)
 
 <!---
 LucasGFT/LucasGFT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
