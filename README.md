@@ -1,4 +1,4 @@
-<h1 align="center">Ola, Me chamo Lucas Gomes</h1>
+<h1 align="center">Ola, eu me chamo Lucas Gomes</h1>
 <h3 align="center">Desenvolvedor Web Full-Stack</h3>
 
 Sou um Desenvolvedor Web Full-Stack apaixonado por tecnologia e inovação. Atualmente, estou me aprimorando na área através do curso de Desenvolvedor Web Full-Stack na Trybe, e estou ansioso para colaborar em projetos empolgantes que possam me desafiar ainda mais.
