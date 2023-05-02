@@ -28,9 +28,6 @@ Sou um Desenvolvedor Web Full-Stack apaixonado por tecnologia e inovação. Atua
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGFT&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGFT&layout=compact&theme=dark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lucasgft&layout=compact&theme=dark)
 
 <!---
